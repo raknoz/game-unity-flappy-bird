@@ -1,2 +1,2 @@
 # game-unity-flappy-bird
-Exercise of course of udemy with Unity 5
+Exercise from Udemy's course in Unity 5
